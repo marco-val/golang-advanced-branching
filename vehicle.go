@@ -72,7 +72,7 @@ func init() {
 func main() {
 
 	// Generate ratings for the different vehicles
-
+	//
 	// Print ratings for the different vehicles
 }
 
